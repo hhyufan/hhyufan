@@ -2,7 +2,7 @@
 (｡･ω･)ﾉﾞ 你好♪，我是幼犬雨凡baka。如你所见，一名来自中国的编程爱好者。很高兴认识你，希望你能成为我的朋友(*￣▽￣)b！
 <!--余名雨凡，若君所见，出身华夏。心怀二趣：编程之道，探其微渺，穷其幽深；古典文学，醉身词赋，味其深邃。唯以挚诚之心，缔交良音知己-->
 
-## **🌱 About me** ##
+## **🌈 About me** ##
 
 - 🌱 一名软件工程专业的大学生，热爱🖥️编程和📜古典文学
 - 🛠️ 技术栈： ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=ffffff)  ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)  ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
