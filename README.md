@@ -20,7 +20,7 @@
 
 ## **🚀 Active Stats** ##
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hhyufan&theme=react-dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue&card_width=1024)
 
 ## **📖 Favorite Book** ##
 
