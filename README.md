@@ -12,7 +12,7 @@
 - ⚡ ~~hhYuFan的hh是憨憨的意思啦(v〃∇〃)~~
 - 📫 如何联系: 1838248655@qq.com
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyufan&layout=compact&langs_count=8&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyufan&layout=compact&langs_count=8&theme=github_dark/)
 
 ## **🕊️ GitHub Stats** ##
 
