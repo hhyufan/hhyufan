@@ -1,4 +1,7 @@
-# Hi (｡･ω･)ﾉﾞ, I'm hhyufan 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi(｡･ω･)ﾉﾞ,+I'm+hhyufan+👋)](https://git.io/typing-svg)
+
+
+
 
 你好♪，我是幼犬雨凡。一名来自中国的编程爱好者，很高兴认识你！
 
