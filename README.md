@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi(｡･ω･)ﾉﾞ,+I'm+hhyufan+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=ff0000&lines=Hi(｡･ω･)ﾉﾞ,+I'm+hhyufan+👋)](https://git.io/typing-svg)
 
 
 
