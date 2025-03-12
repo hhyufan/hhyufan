@@ -20,7 +20,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-cc6699.svg?logo=sass&logoColor=white)
   
-- ✨ 追求简洁优雅的代码风格，一起保持好奇心~
+- ✨ 追求简洁优雅的代码风格
 - 📫 联系方式：1838248655@qq.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhyufan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
