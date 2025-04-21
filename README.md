@@ -35,7 +35,7 @@
 ## 🚀 Active
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhyufan&theme=react-dark" alt="Activity Graph" />
-<img src="https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue&width=100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue" alt="GitHub Streak" width="100%"/>
 
 ## 📖 Book
 
