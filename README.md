@@ -15,13 +15,10 @@
   ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
   ![MySQL](https://img.shields.io/badge/MySQL-00000f.svg?logo=mysql&logoColor=white)
-  
-- 📚 **学习中**：
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-cc6699.svg?logo=sass&logoColor=white)
+- 📚 **学习中**：
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white)
 - ✨ 追求简洁优雅的代码风格
 - 📫 联系方式：1838248655@qq.com
