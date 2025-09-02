@@ -23,7 +23,7 @@
 - ✨ 追求简洁优雅的代码风格
 - 📫 联系方式：1838248655@qq.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhyufan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhyufan&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" />
 
 ## 🕊️ GitHub Stats
 
