@@ -13,7 +13,7 @@
 - ✨ 追求简洁优雅的代码风格(~写不出来~)
 - 📫 联系方式：hhyufan4715@gmail.com
 
-### 🚀 Most Used Languages
+### ⚡ Most Used Languages
 [![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=hhyufan&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/hhyufan#gh-dark-mode-only)
 [![Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=hhyufan&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/hhyufan#gh-light-mode-only)
 ## 🕊️ GitHub Stats
