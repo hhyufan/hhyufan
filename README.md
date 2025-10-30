@@ -34,20 +34,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhyufan&theme=react-dark" alt="Activity Graph" />
 <img src="https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue&card_height=300&card_width=1400" alt="GitHub Streak"/>
 
-## 📖 Book
-
-### 技术类
-- **《JavaScript 权威指南》** - David Flanagan
-- **《Kotlin 核心编程》** - 水滴技术团队
-- **《Java 核心技术》** - Cay S. Horstmann
-
-### 文学类
-- **《宋词鉴赏辞典》** - 唐圭璋，钟振振
-- **《古文观止》** - [清]吴楚材、吴调侯
-- **《东坡集》** - [北宋]苏轼
-
-## 📧 联系我
-
-- QQ邮箱：1838248655@qq.com
 
 <!--余名雨凡，若君所见，出身华夏。心怀二趣：编程之道，探其微渺，穷其幽深；古典文学，醉身词赋，味其深邃。唯以挚诚之心，缔交良音知己-->
