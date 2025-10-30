@@ -11,9 +11,7 @@
 - 🛠️ **技术栈**：
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 - ✨ 追求简洁优雅的代码风格(~写不出来~)
 - 📫 联系方式：hhyufan4715@gmail.com
 
