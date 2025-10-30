@@ -11,7 +11,7 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF.svg?logo=kotlin&logoColor=white)
   ![React](https://img.shields.io/badge/React-CCF7FE.svg?logo=react&logoColor=20232A)
 - ✨ 追求简洁优雅的代码风格(~写不出来~)
-- 📫 联系方式：hhyufan4715@gmail.com
+- 📧 邮箱：hhyufan4715@gmail.com
 
 ### ⚡ Most Used Languages
 [![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=hhyufan&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/hhyufan#gh-dark-mode-only)
