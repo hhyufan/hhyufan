@@ -22,11 +22,3 @@
 ## 🕊️ GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=hhyufan&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-
-## 🚀 Active
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hhyufan&theme=react-dark" alt="Activity Graph" />
-<img src="https://streak-stats.demolab.com?user=hhyufan&theme=github-dark-blue&card_height=300&card_width=1400" alt="GitHub Streak"/>
-
-
-<!--余名雨凡，若君所见，出身华夏。心怀二趣：编程之道，探其微渺，穷其幽深；古典文学，醉身词赋，味其深邃。唯以挚诚之心，缔交良音知己-->
